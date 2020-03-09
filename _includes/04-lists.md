@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+1. Dog
+2. Not cats
+3. Games(?)
