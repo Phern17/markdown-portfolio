@@ -1,1 +1,8 @@
-Replace this with a list of your favorite things.
+- Fried Chicken 🐔
+  - Spicy
+  - Original
+  - Korean style, Seaweed sweet sauce?
+  - Korean style, garlic
+- Cheesy Wedges 🧀
+- Coke 🍹
+- Money 🤑
