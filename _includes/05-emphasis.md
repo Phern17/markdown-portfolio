@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Java_ **almost a beginner level at this point, need to brush up immediately**
+_C++_ **almost a beginner level at this point**
+_Python_ **some what immediate level**
+_Javascript_ **rather strong with the fundamental**
